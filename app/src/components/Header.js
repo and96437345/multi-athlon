@@ -13,7 +13,7 @@ export default function Header() {
         <div>
             <div className="header-dark">
                 <nav className="navbar navbar-dark navbar-expand-md navigation-clean-search">
-                    <div className="container"><a className="navbar-brand" href="/"><span> <i className="fa fa-firefox text-light" aria-hidden="true"></i></span>  МультиАтлон</a><button className="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span className="sr-only">Toggle navigation</span><span className="navbar-toggler-icon"></span></button>
+                    <div className="container"><a className="navbar-brand" href="#"><span> <i className="fa fa-firefox text-light" aria-hidden="true"></i></span>  МультиАтлон</a><button className="navbar-toggler" data-toggle="collapse" data-target="#navcol-1"><span className="sr-only">Toggle navigation</span><span className="navbar-toggler-icon"></span></button>
                         <div className="collapse navbar-collapse"
                             id="navcol-1">
                             <ul className="nav navbar-nav">
