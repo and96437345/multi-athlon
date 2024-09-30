@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/multi-athlon/static/css/main.d9ec1edd.css",
-    "main.js": "/multi-athlon/static/js/main.df8c0d54.js",
+    "main.js": "/multi-athlon/static/js/main.81ec4d68.js",
     "static/js/453.a6a97343.chunk.js": "/multi-athlon/static/js/453.a6a97343.chunk.js",
     "static/media/stadium.jpg": "/multi-athlon/static/media/stadium.814ad586c43cd4ed79c6.jpg",
     "index.html": "/multi-athlon/index.html",
     "main.d9ec1edd.css.map": "/multi-athlon/static/css/main.d9ec1edd.css.map",
-    "main.df8c0d54.js.map": "/multi-athlon/static/js/main.df8c0d54.js.map",
+    "main.81ec4d68.js.map": "/multi-athlon/static/js/main.81ec4d68.js.map",
     "453.a6a97343.chunk.js.map": "/multi-athlon/static/js/453.a6a97343.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d9ec1edd.css",
-    "static/js/main.df8c0d54.js"
+    "static/js/main.81ec4d68.js"
   ]
 }
