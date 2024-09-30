@@ -1,11 +1,11 @@
 export default function Profile() {
     return (
-      <div className="container">
+      <div className="container profile">
         <div class="main-body">
     
           <nav aria-label="breadcrumb" class="main-breadcrumb">
                 <ol class="breadcrumb">
-                    <li class="breadcrumb-item"><a href="index.html">Главная</a></li>
+                    <li class="breadcrumb-item"><a href="/multi-athlon">Главная</a></li>
                     <li class="breadcrumb-item"><a href="javascript:void(0)">Личный кабинет</a></li>
                     <li class="breadcrumb-item active" aria-current="page">Профиль пользователя</li>
                 </ol>
@@ -95,7 +95,7 @@ export default function Profile() {
                 <h6 class="mb-0">Мобильный</h6>
               </div>
               <div class="col-sm-9 text-secondary">
-                +7(999)999-99-99
+                +7(999)-999-99-99
               </div>
             </div>
             
@@ -110,7 +110,7 @@ export default function Profile() {
             
             <div class="row">
               <div class="col-sm-12">
-                <a class="btn btn-info " target="__blank" href="#">Редактировать профиль</a>
+                <a class="btn btn-info " target="__blank" href="/multi-athlon">Редактировать профиль</a>
               </div>
             </div>
           </div>

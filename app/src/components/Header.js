@@ -34,14 +34,14 @@ export default function Header() {
                         </div>
                     </div>
                 </nav>
-                <Routes>
-                    <Route path='/' exact element={[<Hero />, <ResultsList />]} />
-                    <Route path='/resultsPage' element={<ResultsPage />} />
-                    <Route path='/perfomancesPage' element={<PerfomancesPage />} />
-                    <Route path='/registrationForm' element={<RegistrationForm />} />
-                    <Route path='/logIn' element={<LogIn />}/>
-                    <Route path='/profile' element={<Profile />} />
-                </Routes>             
+                {/* <Routes> */}
+                    {/* <Route path='/' exact element={[<Hero />, <ResultsList />]} /> */}
+                    {/* <Route path='/resultsPage' element={<ResultsPage />} /> */}
+                    {/* <Route path='/perfomancesPage' element={<PerfomancesPage />} /> */}
+                    {/* <Route path='/registrationForm' element={<RegistrationForm />} /> */}
+                    {/* <Route path='/logIn' element={<LogIn />}/> */}
+                    {/* <Route path='/profile' element={<Profile />} /> */}
+                {/* </Routes>              */}
             </div>
         </div>
     )

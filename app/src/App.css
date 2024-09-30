@@ -8,7 +8,8 @@ a:hover {
   background:url(../public/stadium.jpg) #444;
   background-size:cover;
   padding-bottom:80px;
-  height: 130svh;
+  margin-bottom: -790px;
+  height: 100svh;
 }
 .nav {
   flex-wrap: nowrap;
@@ -16,7 +17,14 @@ a:hover {
 @media (min-width:768px) {
   .header-dark {
     padding-bottom:120px;
+    margin-bottom: -800px;
   }
+}
+
+.my-5 {
+    width: 76%;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 .header-dark .navbar {
@@ -104,8 +112,7 @@ a:hover {
   font-size:14px;
   color:#37434d;
 }
-.dropdown-item {
-}
+
 .dropdown-item:hover {
   color: #1E88E5 !important;
   transition: .4s;
@@ -153,6 +160,9 @@ a:hover {
 
 .header-dark .hero {
   margin-top:60px;
+}
+.registration, .login, .profile {
+  margin-bottom: 415px;
 }
 
 @media (min-width:768px) {
@@ -677,7 +687,7 @@ button:hover {
  }
 
  body{
-  margin-top:20px;
+  /* margin-top:20px; */
   color: #1a202c;
   text-align: left;
   background-color: #e2e8f0;    
