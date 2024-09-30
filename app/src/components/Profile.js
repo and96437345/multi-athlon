@@ -95,7 +95,7 @@ export default function Profile() {
                 <h6 class="mb-0">Мобильный</h6>
               </div>
               <div class="col-sm-9 text-secondary">
-                (320) 380-4539
+                +7(999)999-99-99
               </div>
             </div>
             
@@ -110,7 +110,7 @@ export default function Profile() {
             
             <div class="row">
               <div class="col-sm-12">
-                <a class="btn btn-info " target="__blank" href="https://www.bootdey.com/snippets/view/profile-edit-data-and-skills">Редактировать роофиль</a>
+                <a class="btn btn-info " target="__blank" href="#">Редактировать профиль</a>
               </div>
             </div>
           </div>
